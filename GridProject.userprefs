@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="c:\Users\Dennis\Documents\GridProject\Assets\Gamelogic\Plugins\Common\Datastructures\Generators\IGenerator.cs">
+    <Files>
+      <File FileName="Assets\Gamelogic\Examples\Grids\Scripts\Grids Lite\BasicGridSetup\RectTest.cs" Line="19" Column="12" />
+      <File FileName="Assets\Gamelogic\Plugins\Common\Extensions\GLMonoBehaviour.cs" Line="20" Column="2" />
+      <File FileName="c:\Users\Dennis\Documents\GridProject\Assets\Gamelogic\Plugins\Common\Datastructures\Generators\IGenerator.cs" Line="10" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
